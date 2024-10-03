@@ -2,7 +2,7 @@
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
-To Write a C program that illustrates two processes communicating using shared memory.
+To Write a C program that illustrates two processes communicating using shared memory..
 
 # DESIGN STEPS:
 
